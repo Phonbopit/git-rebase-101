@@ -19,5 +19,7 @@ ff18554 Initial commit
 After `--amend`
 
 ```
-
+ad55d01 try to add message with --amend
+6c7ee98 modify README.md before --amend
+ff18554 Initial commit
 ```
